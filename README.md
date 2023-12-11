@@ -2,7 +2,7 @@
 
 This includes:
 
-Folder for this homework assignment called WeatherPy_VacationPy, which has 2 Jupyter notebooks with the main scripts to run for analysis.
+Folder called WeatherPy_VacationPy, which has 2 Jupyter notebooks with the main scripts to run for analysis.
 
 For the WeatherPy.ipynb file,
 it contains plots to showcase the relationship between weather variables and latitude, computes linear regression for the relationships, and contains four brief discussion about each linear relationship as well.
